@@ -6,7 +6,7 @@
 
 1. 社群第 1 期茶话会（3 月 4 日）录播链接出炉啦，分享主题如下：
 
-  a. leo - [营销那些事](https://meeting.tencent.com/v2/cloud-record/share?id=471692b3-fbee-467c-b3e4-7c86066b7413&from=3)
+      a. leo - [营销那些事](https://meeting.tencent.com/v2/cloud-record/share?id=471692b3-fbee-467c-b3e4-7c86066b7413&from=3)
 
 2. 往期茶话会录播合集：
 
